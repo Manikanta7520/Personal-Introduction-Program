@@ -1,6 +1,6 @@
 # Personal Introduction Program  
-### Week 1 – Developers Arena Data Science Internship  
-
+## Week 1 – Developers Arena Data Science Internship  
+### Author : Sai Manikanta
 ---
 
 ## 📄 About the Project  
