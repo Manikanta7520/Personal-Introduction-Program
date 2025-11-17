@@ -1,6 +1,6 @@
 # Personal Introduction Program  
-# Developers Arena Data Science Internship  
-# Author : Sai Manikanta
+* Developers Arena Data Science Internship  
+* Author : Sai Manikanta
 ---
 
 ## 📄 About the Project  
